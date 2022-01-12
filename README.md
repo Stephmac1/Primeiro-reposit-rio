@@ -1,2 +1,2 @@
-# Primeiro-reposit-rio
+# Primeiro-repositorio
 Desafio Dio para a criação do meu primeiro repositório Git/Github
