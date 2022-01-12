@@ -1,0 +1,6 @@
+Usando pela primeira vez o Git/GitHub
+
+Após entender a importancia de tais ferramentas no dia a dia 
+profissional, estou testando os conhecimentos adquiridos no curso.
+
+Tentativa de usar as funcionalidades do Git/Github.
